@@ -20,9 +20,7 @@ It's time to put this knowledge into practice!
 
 Create an image gallery with the ability to click on its items and view the full-size image in a modal window. Watch the demo video of the gallery.
 
-<video width="500" height="320" controls>
-  <source src="./images/homework-video-1.mp4" type="video/mp4">
-</video> 
+![gif](./images/homework-video-1.gif)
 
 Creating a gallery is a complex task that should be broken down into several simpler subtasks, each bringing you closer to the final goal. This process is called **task decomposition**.
 
